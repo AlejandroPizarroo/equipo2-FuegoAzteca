@@ -1,6 +1,6 @@
 # Reto TI3005B - Equipo 2
 
-### Trasformación digital de organizaciones de la sociedad civil (Gpo 101)
+### *Trasformación digital de organizaciones de la sociedad civil (Gpo 101)*
 
 ### Integrantes del equipo: <br />
 A01634154 | Diego Rosas <br />
