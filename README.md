@@ -10,7 +10,7 @@ A01633784 | Alejandro Pizarro Chávez  <br />
 A01639830 | José Carlos Bañales López <br />
 A01640116 | Fernanda Estefanía Zapién Rubio  <br />
 A01741755 | Kevyn Alberto Rivera Castro <br />
-A01251936 | Alejandro Vazque Valenzuela
+A01251936 | Alejandro Vazquez Valenzuela
 
 
 ### Misión y objetivo: <br />
