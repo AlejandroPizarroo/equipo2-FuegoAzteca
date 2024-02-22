@@ -12,7 +12,7 @@ A01640116 | Fernanda Estefanía Zapién Rubio  <br />
 A01741755 | Kevyn Alberto Rivera Castro <br />
 A01251936 | Alejandro Vazquez Valenzuela
 
-###Socio formador: <br />
+### Socio formador: <br />
 Fuego Azteca es una marca mexicana que ofrece salsas gourmet elaboradas con ingredientes naturales de la más alta calidad.
 
 ### Misión y objetivo: <br />
